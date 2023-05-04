@@ -1,0 +1,648 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Open+Sans:300,400,600,700,800
+File Name: C:\Downloaded Web Sites\htmldemo.net\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\htmldemo.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://htmldemo.net/elecron/elecron/about.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\about.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/assets/css/bicon.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\css\bicon.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/elecron/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/elecron/assets/css/plugins.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\css\plugins.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/elecron/assets/css/style.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\css\style.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/elecron/assets/fonts/bicon.eot?b8vo7z
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\fonts\bicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/elecron/elecron/assets/fonts/bicon.svg?b8vo7z
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\fonts\bicon.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/elecron/elecron/assets/fonts/bicon.ttf?b8vo7z
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\fonts\bicon.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/elecron/elecron/assets/fonts/bicon.woff?b8vo7z
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\fonts\bicon.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/about/about-01.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\about\about-01.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/about/about-02.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\about\about-02.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/about/about-03.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\about\about-03.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/about/faq-mc-01.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\about\faq-mc-01.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/about/faq-mc-02.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\about\faq-mc-02.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-details.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-details.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-01.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-01.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-02.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-02.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-03.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-03.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-04.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-04.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-05.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-05.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-06.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-06.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-07.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-07.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-08.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-08.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/blog/blog-s-09.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\blog\blog-s-09.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/icon/plas-01.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\icon\plas-01.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/icon/title-bg.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\icon\title-bg.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/icon/video.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\icon\video.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/logo/logo-2.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\logo\logo-2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/logo/logo.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/review/comment-1.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\review\comment-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/review/comment-2.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\review\comment-2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/01.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\01.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/02.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\02.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/03.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\03.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-01.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-01.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-02.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-02.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-03.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-03.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-04.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-04.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-05.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-05.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-06.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-06.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-details01.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-details01.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-details02.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-details02.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-details03.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-details03.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-details04.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-details04.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-details05.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-details05.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-details06.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-details06.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/service/service-details07.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\service\service-details07.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-01.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-02.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-03.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-04.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-05.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-06.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-07.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-07.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/team/team-09.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\team\team-09.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/testimonial/testimonial-author-1.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\testimonial\testimonial-author-1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/images/testimonial/testimonial-author-2.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\images\testimonial\testimonial-author-2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/elecron/assets/js/ajax-mail.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\js\ajax-mail.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/elecron/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/elecron/assets/js/main.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/elecron/assets/js/plugins.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/elecron/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/elecron/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\js\vendor\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/elecron/assets/js/vendor/modernizr-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\assets\js\vendor\modernizr-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/elecron/blog-details-left-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\blog-details-left-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/blog-details.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\blog-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/blog-left-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/blog-right-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/blog.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\blog.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/contact.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\contact.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/error-404.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\error-404.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/index-2.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\index-2.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/index-box-2.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\index-box-2.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/index-box.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\index-box.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/index.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\index.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/service-2.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\service-2.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/service-details.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\service-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/service.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\service.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/elecron/team.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\elecron\team.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/index.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\index.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/elecron/p2/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/p2/css/et-line.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\css\et-line.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/p2/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/p2/css/plugins.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\css\plugins.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/p2/css/responsive.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\css\responsive.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/elecron/p2/fonts/et-line.eot
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/elecron/p2/fonts/et-line.eot?
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/elecron/p2/fonts/et-line.svg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/elecron/p2/fonts/et-line.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\et-line.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/elecron/p2/fonts/et-line.woff
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\et-line.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/elecron/p2/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/elecron/p2/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/elecron/p2/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/elecron/p2/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/elecron/p2/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://htmldemo.net/elecron/p2/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/about-us.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\about-us.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/blog-col-3.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\blog-col-3.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/blog-details-left.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\blog-details-left.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/blog-details-right.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\blog-details-right.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/blog-left.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\blog-left.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/blog.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\blog.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/bootstrap.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\bootstrap.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/code.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\code.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/contact.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\contact.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/css3.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\css3.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/document.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\document.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/error.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\error.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/fontawesome.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\fontawesome.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/google-font.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\google-font.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/home-1.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\home-1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/home-2.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\home-2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/home-box-1.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\home-box-1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/home-box-2.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\home-box-2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/html5.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\html5.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/jquery.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\jquery.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/logo.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\logo.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/magnific-popup.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\magnific-popup.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/mail.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\mail.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/responsive.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\responsive.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/sass.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\sass.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/service-details.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\service-details.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/service.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\service.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/single-service.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\single-service.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/slick.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\slick.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/slider-bg.jpg
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\slider-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/speed.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\speed.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/team.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\team.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/w3c-validation.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\w3c-validation.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/elecron/zmdi.png
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\elecron\zmdi.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/elecron/p2/img/favicon.ico
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://htmldemo.net/elecron/p2/js/ajax-mail.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\js\ajax-mail.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/p2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/p2/js/main.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\js\main.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/p2/js/plugins.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/p2/js/vendor/jquery-3.1.1.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\js\vendor\jquery-3.1.1.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/p2/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\js\vendor\modernizr-2.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/elecron/p2/style.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\elecron\p2\style.css
+Content Type: text/css
+
+Uri: https://www.facebook.com/tr?id=223900361524792&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\htmldemo.net\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-132749328-1
+File Name: C:\Downloaded Web Sites\htmldemo.net\gtag\js
+Content Type: application/javascript
+
